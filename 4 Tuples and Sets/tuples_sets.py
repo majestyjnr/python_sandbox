@@ -3,5 +3,5 @@
 # Creating a tuple
 countries = ('Ghana', 'USA', 'India', 'France', 'Nigeria', 'Belgium', 'Norepublic', 'China')
 
-
-print(contries)
+print(countries)            # Prints the tuple countries
+print(type(countries))      # Prints the type of countries
