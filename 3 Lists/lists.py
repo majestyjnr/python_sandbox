@@ -4,5 +4,8 @@
 numbers = [1, 2, 3, 4, 5, 6]
 countries = ['Ghana', 'USA', 'India', 'France', 'Nigeria', 'Belgium', 'China']
 
-print(numbers)              # printing the numbers List
-print(countries(0))         # printing out the first country in the list
+# Getting the length of a list
+print(len(countries))
+
+print(numbers)                                  # printing the numbers List
+print(countries[0] + ' is my country')          # printing out the first country in the list
