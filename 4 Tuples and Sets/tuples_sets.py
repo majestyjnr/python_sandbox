@@ -6,3 +6,8 @@ countries = ('Ghana', 'USA', 'India', 'France', 'Nigeria', 'Belgium', 'Norepubli
 print(countries[0])         # Get a value
 print(countries)            # Prints the tuple countries
 print(type(countries))      # Prints the type of countries
+
+
+
+
+# A set is a collection that is unordered or unindexed. No duplicate is allowed
