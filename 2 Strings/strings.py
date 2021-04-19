@@ -17,9 +17,10 @@ print(f'Hello there, My name is {myName} I am a Software Engineer at {workPlace}
 
 
 # Python String Methods
-print(name.capitalize())                                    
 
-print(name.upper())                                         
+print(name.capitalize())                                    # It capitalizes a String
+
+print(name.upper())                                         # It coverts a string t0 capitals
 
 print(name.lower())                                            
 
