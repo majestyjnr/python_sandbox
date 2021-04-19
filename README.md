@@ -4,5 +4,7 @@
 
 ## Table of Contents
 
-**Variables**
+**1.    Variables**
+**2.    Strings**
+
 
