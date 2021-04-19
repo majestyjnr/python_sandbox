@@ -20,13 +20,13 @@ print(f'Hello there, My name is {myName} I am a Software Engineer at {workPlace}
 
 print(name.capitalize())                                    # It capitalizes a String
 
-print(name.upper())                                         # It coverts a string t0 capitals
+print(name.upper())                                         # It coverts a string to uppercase
 
-print(name.lower())                                            
+print(name.lower())                                         # It coverts a string to lowercase
 
-print(name.isalpha())                                       
+print(name.isalpha())                                       # It checks to see whether a string is made up of alphapbets or not. If yes, it prints true, if no it prints false
 
-print(name.isdigit())                                       
+print(name.isdigit())                                       # It checks to see whether a string is made up of digits or not. If yes, it prints true, if no it prints false
 
-print(myName.replace('Developer', 'Chief Programmer'))      
+print(myName.replace('Developer', 'Chief Programmer'))      # It replaces the first(old) String with the second(new) String.
 
