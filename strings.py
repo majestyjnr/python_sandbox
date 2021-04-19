@@ -9,5 +9,6 @@ workPlace = 'Maverick Edifice Limited'
 # Concatenate
 print('Hello there, My name is ' + myName + '. I am a Software Engineer at ' + workPlace + '.' )
 
-
+# Arguments by position
+print('Hello there, My name is {myName} I am a Software Engineer at {workPlace}.'.format(myName=myName, workPlace=workPlace))
 
