@@ -12,6 +12,9 @@
 
 **4.    Tuples and Sets**
 
+**5.    Dictionaries**
+
+
 
 
 
