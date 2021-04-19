@@ -13,6 +13,9 @@ print(countries.append('Canada'))
 # Removes from a list
 print(countries.remove('Norepublic'))
 
+# changing a value
+countries[6] = 'NULLRepublic'
+
 # Inserts into a list
 print(countries.insert(2, 'Israel'))
 
