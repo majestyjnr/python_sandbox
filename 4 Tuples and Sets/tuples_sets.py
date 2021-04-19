@@ -1,1 +1,1 @@
-# 
+# A tuple is a collection that is ordered and unchangeable
