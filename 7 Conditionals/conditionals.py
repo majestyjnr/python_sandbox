@@ -10,9 +10,18 @@ b = 20
 if(b > a):
     print(f'{b} is greater than {a}')
 
-
 # If/Else Statement
 if(a == b):
     print(f'{a} is equal to {b}')
 else:
     print(f'{a} is not equal to {b}')
+
+# elif
+if(a == b):
+    print(f'{a} is equal to {b}')
+elif(a > b):
+    print(f'{a} is greater than {b}')
+elif(b > a):
+    print(f'{b} is greater than {a}')
+
+# Nested If
