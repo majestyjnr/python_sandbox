@@ -14,9 +14,14 @@ print(staff.get('company'))
 # Get Keys
 print(staff.keys())
 
+# Get Dictionary items
+print(staff.items())
+
 # Add Key/Value
 staff['email'] = 'developermajesty@gmail.com'
 
+# Copy dictionary and assign it
+staff1 = staff.copy()
 
 # Print Entire Dictionary
 print(staff)  
