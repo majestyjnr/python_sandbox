@@ -16,7 +16,10 @@
 
 **6.    Functions**
 
-**6.    Conditionals**
+**7.    Conditionals**
+
+**8.    Loops**
+
 
 
 
