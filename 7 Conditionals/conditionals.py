@@ -25,3 +25,6 @@ elif(b > a):
     print(f'{b} is greater than {a}')
 
 # Nested If
+if(b > a):
+    if(b <= 50):
+       print(f'{b} is greater than {a} and less than or equal to 50')
