@@ -14,6 +14,9 @@
 
 **5.    Dictionaries**
 
+**6.    Functions**
+
+
 
 
 
