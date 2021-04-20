@@ -23,5 +23,8 @@ staff['email'] = 'developermajesty@gmail.com'
 # Copy dictionary and assign it
 staff1 = staff.copy()
 
+# Get length of a dictionary
+print(len(staff))
+
 # Print Entire Dictionary
 print(staff)  
