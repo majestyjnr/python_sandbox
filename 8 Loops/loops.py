@@ -19,3 +19,7 @@ for person in names:
     if (person == 'Dog'):
         continue
     print(f'Current Person is:  {person}')
+
+# Range
+for index in range(len(names)):
+    print(names[index])
