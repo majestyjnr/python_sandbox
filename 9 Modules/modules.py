@@ -10,3 +10,12 @@ print(today)
 
 
 # Importing a custom module
+
+#First Way of Importing
+import data
+
+# Second Way of Importing
+from data import printName
+
+data.printName('Developer')
+printName('Developer Majesty')
