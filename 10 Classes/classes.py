@@ -8,7 +8,12 @@ class User:
         self.email = email
         self.phone = phone
 
+    # Creating a method fro the class
+    def displayInfo(self):
+        return f'{self.name} is a Software Engineer at Maverick Edifice. His phone number is {self.phone}.'
+
+
 # Init or Initialize User object
 majesty = User('Developer Majesty', 'developermajesty@gmail.com', '0544174142')
 
-print(majesty.phone)
+print(majesty.displayInfo()) 
