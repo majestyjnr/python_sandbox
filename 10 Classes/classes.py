@@ -24,6 +24,9 @@ class Admin(User):
         self.phone = phone
         self.salary = 4500
 
+
+    def setSalary(self):
+        self.salary = salary
     
 
 
@@ -31,5 +34,10 @@ class Admin(User):
 
 # Init or Initialize User object
 majesty = User('Developer Majesty', 'developermajesty@gmail.com', '0544174142')
+
+# Init or Initialize Admin object
+admin = Customer('Solomon Aidoo Junior', 'developermajesty@gmail.com', '0544174142', 4500)
+
+admin.setSalary()
 
 print(majesty.displayInfo())
