@@ -7,3 +7,6 @@ import datetime
 today = datetime.date.today()
 
 print(today)
+
+
+# Importing a custom module
