@@ -5,8 +5,9 @@
 names = ['Solomon', 'Prince', 'Henry', 'Daniel', 'Samuel', 'Charles', 'Dog', 'Tiger', 'Leopard']
 
 # Simple For Loop
-# for person in names:
-#     print(f'Current Person is:  {person}')
+
+for person in names:
+    print(f'Current Person is:  {person}')
 
 # Break
 for person in names:
@@ -23,3 +24,13 @@ for person in names:
 # Range
 for index in range(len(names)):
     print(names[index])
+
+
+
+# While Loop 
+
+counter = 0
+
+while counter <= 10:
+    print(f'Users visiting the site: {counter}')
+    counter += 1
