@@ -25,7 +25,7 @@ class Admin(User):
         self.salary = 4500
 
 
-    def setSalary(self):
+    def setSalary(self, salary):
         self.salary = salary
     
 

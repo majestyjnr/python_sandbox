@@ -3,9 +3,15 @@
 # Creating a dictionary
 staff = {
     'name': 'Developer Majesty',
-    'proffession': 'Software Engineer',
+    'profession': 'Software Engineer',
     'company': 'Maverick Edifice Limited',
 }
+
+student = {
+    'name': 'Solomon Aidoo Jnr',
+    'age': '10'
+}
+
 
 # Get Value
 print(staff['name']) 
@@ -18,13 +24,13 @@ print(staff.keys())
 print(staff.items())
 
 # Add Key/Value
-staff['email'] = 'developermajesty@gmail.com'
+staff['email'] = 'solomon.aidoo@maverickedifice.com'
 
 # Copy dictionary and assign it
 staff1 = staff.copy()
 
 # Get length of a dictionary
-print(len(staff))
+# print(len(staff))
 
 # Print Entire Dictionary
-print(staff)  
+# print(staff)

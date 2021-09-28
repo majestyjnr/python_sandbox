@@ -1,14 +1,19 @@
 # A function is a block of code that runs when called
 
 # Create a function {To define a function in Python, we use the def keyword}
-def displayDetais(name, proffession):
-    print(f'My name is {name}. I am a {proffession}')
 
-displayDetais('Solomon', 'Software Engineer')
+
+def display_details(name, profession):
+    print(f'My name is {name}. I am a {profession}')
+
+
+display_details('Solomon', 'Software Engineer')
+
 
 # Return Values
-def getTotal(firstNum, secondNum, thirdNum):
-    sum = firstNum + secondNum + thirdNum
-    return sum
+def get_total(first_num, second_num, third_num):
+    total = first_num + second_num + third_num
+    return total
 
-print(getTotal(12, 5, 3))
+
+print(get_total(12, 5, 3))

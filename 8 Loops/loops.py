@@ -26,7 +26,6 @@ for index in range(len(names)):
     print(names[index])
 
 
-
 # While Loop 
 
 counter = 0

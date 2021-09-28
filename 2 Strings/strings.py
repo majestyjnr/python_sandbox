@@ -3,11 +3,13 @@
 # Below are some string formatting and method
 
 myName = 'Developer Majesty'
+name = "majesty"
+sentence = "The boy is very foolish"
 workPlace = 'Maverick Edifice Limited'
-name= 'king'
+
 
 # Concatenate
-print('Hello there, My name is ' + myName + '. I am a Software Engineer at ' + workPlace + '.' )
+print('Hello there, My name is ' + myName + '. I am a Software Engineer at ' + workPlace + '.')
 
 # Arguments by position
 print('Hello there, My name is {myName} I am a Software Engineer at {workPlace}.'.format(myName=myName, workPlace=workPlace))
@@ -28,5 +30,9 @@ print(name.isalpha())                                       # It checks to see w
 
 print(name.isdigit())                                       # It checks to see whether a string is made up of digits or not. If yes, it prints true, if no it prints false
 
-print(myName.replace('Developer', 'Chief Programmer'))      # It replaces the first(old) String with the second(new) String.
+print(name.replace('majesty', 'Chief Programmer'))      # It replaces the first(old) String with the second(new) String.
+
+print(sentence.replace("foolish" , "f**lish"))
+
+comment = input('type a comment: ')
 

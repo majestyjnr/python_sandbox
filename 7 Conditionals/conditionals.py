@@ -1,9 +1,11 @@
-'''
+""""
 If/Else conditions are used to determine whether something is true or false
 Comparison Operators can be used. They are (==, !=, >, <, >=, <= )
 Logical Operators can be used. They are (and, or, not)
 Membership Operators can be used. They are (not, not in)
-'''
+
+NB: f(Formatted String literal) It embeds expressions into string literals
+"""
 
 a = 10
 b = 20
