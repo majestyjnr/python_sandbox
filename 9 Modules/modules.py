@@ -2,7 +2,8 @@
 # There are core python modules. Thus modules that you can install using the pip package manager
 
 # Importing a Core Python Module
-import datetime 
+import datetime
+
 
 today = datetime.date.today()
 

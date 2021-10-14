@@ -11,13 +11,13 @@ for person in names:
 
 # Break
 for person in names:
-    if (person == 'Dog'):
+    if person == 'Dog':
         break
     print(f'Current Person is:  {person}')
 
 # Continue
 for person in names:
-    if (person == 'Dog'):
+    if person == 'Dog':
         continue
     print(f'Current Person is:  {person}')
 
@@ -26,7 +26,7 @@ for index in range(len(names)):
     print(names[index])
 
 
-# While Loop 
+# While Loop
 
 counter = 0
 

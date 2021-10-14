@@ -7,28 +7,31 @@ countries = ['Ghana', 'USA', 'India', 'France', 'Nigeria', 'Belgium', 'Norepubli
 
 # Getting the length of a list
 print(len(countries))
-print(countries)
 
 # Appends to a list
-# print(countries.append('Canada'))
+countries.append('Canada')
+print(countries)
 
 # Removes from a list
-# print(countries.remove('Norepublic'))
+print(countries.remove('Norepublic'))
+print(countries)
 
 # changing a value
-# countries[6] = 'NULLRepublic'
-
-# print(countries[6])
+countries[6] = 'NULLRepublic'
+print(countries)
 
 # Inserts into a list
-# print(countries.insert(2, 'Israel'))
+countries.insert(2, 'Israel')
+print(countries)
 
 # Reverses a list
-print(countries.reverse())
+countries.reverse()
+print(countries)
 
 # Sorting list according to alphabetical order
-#print(countries.sort())
+countries.sort()
+print(countries)
 
 # print(numbers)
 # print(countries)                                # printing the numbers List
-# print(countries[0] + ' is my country')          # printing out the first country in the list
+print(countries[0] + ' is my country')            # printing out the first country in the list

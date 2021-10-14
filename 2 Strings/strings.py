@@ -26,13 +26,13 @@ print(name.upper())                                         # It coverts a strin
 
 print(name.lower())                                         # It coverts a string to lowercase
 
-print(name.isalpha())                                       # It checks to see whether a string is made up of alphapbets or not. If yes, it prints true, if no it prints false
+print(name.isalpha())                                       # It checks to see whether a string is made up of alphabets or not. If yes, it prints true, if no it prints false
 
 print(name.isdigit())                                       # It checks to see whether a string is made up of digits or not. If yes, it prints true, if no it prints false
 
-print(name.replace('majesty', 'Chief Programmer'))      # It replaces the first(old) String with the second(new) String.
+print(name.replace('majesty', 'Chief Programmer'))          # It replaces the first(old) String with the second(new) String.
 
-print(sentence.replace("foolish" , "f**lish"))
+print(sentence.replace("foolish", "f**lish"))
 
 comment = input('type a comment: ')
 
