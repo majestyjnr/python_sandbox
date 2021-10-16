@@ -4,7 +4,6 @@
 # Importing a Core Python Module
 import datetime
 
-
 today = datetime.date.today()
 
 print(today)
@@ -18,5 +17,7 @@ import data
 # Second Way of Importing
 from data import printName
 
-data.printName('Developer')
-printName('Developer Majesty')
+
+
+data.printEmail('solomon.aidoo@maverickedifice.com')
+printName('Majesty')
