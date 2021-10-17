@@ -50,14 +50,19 @@ f.write("I have a vision!")
 # "a" - Append - will create a file if the specified file does not exist
 # "w" - Write - will create a file if the specified file does not exist
 
-f = open("majesty.txt", "x")
+# f = open("majesty.txt", "x")
 # f = open("majesty.txt", "a")
 # f = open("majesty.txt", "w")
 
-f.write('This is developer majesty')
+# f.write('This is developer majesty')
 
 
 # =============================== Deleting a file =======================================================
 # import os
-# os.remove("demofile.txt")
+# os.remove("to_be_deleted.txt")
+
+# To remove a folder
+# os.rmdir("folder")
+# os.mkdir('test')
+
 
