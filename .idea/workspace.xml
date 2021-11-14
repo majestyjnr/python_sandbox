@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48b19bdf-27b5-4f03-b9d6-b563fef73794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/12 Built-in Functions/List Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17 Numpy/numpy1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nums.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 File Handling/Questions/lines_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11 File Handling/Questions/lines_file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 File Handling/file_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 File Handling/file_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 File Handling/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11 File Handling/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12 Built-in Functions/built_in_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 Built-in Functions/built_in_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Numpy/numpy1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 Numpy/numpy1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/17 Numpy/numpy1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="283">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -413,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634496599483</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit New Updates">
+      <created>1636901601505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636901601505</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -427,7 +427,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21354167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -749,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/17 Numpy/numpy1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="283">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>

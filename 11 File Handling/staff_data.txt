@@ -1,0 +1,11 @@
+Staff Name:   Solo.
+
+Company Name:   Maverick.
+
+Department:    Programming.
+
+Staff Position:  .
+
+Salary:    5000.
+
+Website:     majesty.com
