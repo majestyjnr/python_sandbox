@@ -21,3 +21,4 @@ print(num3.dtype)
 
 
 print(num2.shape)
+
