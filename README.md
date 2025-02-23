@@ -2,7 +2,7 @@
 
 ## A bunch of starter files for a beginner in Python. 
 
-## Table of Contents
+## Table of Contents. 
 
 **1.    Variables**
 
